@@ -22,3 +22,6 @@
 # Enable syntax highlighting for files with `.gitattributes` extensions.
 #
 *.gitattributes linguist-language=gitattributes
+*.ipynb linguist-vendored
+*.ipynb_checkpoints linguist-vendored
+__pycache__ linguist-vendored
